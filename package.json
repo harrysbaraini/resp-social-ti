@@ -6,7 +6,8 @@
     "electron-prebuilt": "^0.32.2"
   },
   "scripts": {
-    "start": "electron ."
+    "start": "electron .",
+    "pack": "asar pack app app.asar"
   },
   "dependencies": {
     "bespoke": "^1.0.0",

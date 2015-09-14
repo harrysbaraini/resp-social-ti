@@ -12,3 +12,9 @@ Trabalho desenvolvido por:
 - Vanderlei Sbaraini Amancio
 - Geferson Eurico dos Santos
 - Everson Bittencourt
+
+- - -
+
+Esta apresentação utiliza o framework [Electron](http://electron.atom.io/), do
+*Github*, para desenvolvimento da "aplicação". Para desenvolvimento da apresentação,
+foi utilizado a biblioteca [Bespoke](http://markdalgleish.com/projects/bespoke.js/).

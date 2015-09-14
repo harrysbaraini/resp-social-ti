@@ -38,18 +38,43 @@ h3 {
     margin: 0;
 }
 
+.header {
+    border-bottom: 1px solid #000;
+    margin-bottom: 2rem;
+    padding: 1.5rem;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.bespoke-progress-parent {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 6px;
+    width: 100%;
+}
+
+.bespoke-progress-bar {
+    background: #1db065;
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 6px;
+
+    -webkit-transition: width 600ms ease;
+    transition: width 1300ms ease;
+}
+
+
+
 
 /**
  *
  * SLIDES
  *
  */
-
-#slide-alunos .header {
-    border-bottom: 1px solid #000;
-    margin-bottom: 2rem;
-    padding: 1.5rem;
-}
 
 #slide-alunos .header img {
     display: block;
