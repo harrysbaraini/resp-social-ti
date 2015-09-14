@@ -1,0 +1,58 @@
+/**
+ * Apresentação
+ */
+
+
+ body {
+     font-family: "Abel", Helvetica, Arial, sans-serif;
+ }
+
+/**
+ * Titulos
+ */
+
+h1, h2, h3 {
+    font-weight: 400;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+h1 {
+    border-bottom: 1px solid #000;
+    border-top: 1px solid #000;
+    line-height: 1.4em;
+    padding: 1em;
+    margin: .17em 0;
+    font-size: 3rem;
+    letter-spacing: .3em;
+}
+
+h2 {
+    font-size: 2rem;
+}
+
+h3 {
+    font-size: 1.2rem;
+    letter-spacing: .3rem;
+    line-height: 1.4rem;
+    margin: 0;
+}
+
+
+/**
+ *
+ * SLIDES
+ *
+ */
+
+#slide-alunos .header {
+    border-bottom: 1px solid #000;
+    margin-bottom: 2rem;
+    padding: 1.5rem;
+}
+
+#slide-alunos .header img {
+    display: block;
+    margin: 0 auto 1.2rem auto;
+    width: 4rem;
+}
