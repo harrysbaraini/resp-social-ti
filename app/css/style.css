@@ -38,10 +38,29 @@ h3 {
     margin: 0;
 }
 
+h4 {
+    border-bottom: 1px solid #bbb;
+    color: #777;
+    text-align: center;
+    font-size: 1rem;
+    letter-spacing: .3rem;
+    line-height: 1.2rem;
+    margin: 0;
+    padding-bottom: 6px;
+    text-transform: uppercase;
+}
+
 .header {
     border-bottom: 1px solid #000;
     margin-bottom: 2rem;
     padding: 1.5rem;
+}
+
+.top-header {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 100%;
 }
 
 .bold {
